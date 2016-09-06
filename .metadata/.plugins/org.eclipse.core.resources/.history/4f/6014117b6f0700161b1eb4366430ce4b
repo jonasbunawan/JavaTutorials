@@ -1,0 +1,23 @@
+
+public class Variables {
+
+	public static void main(String[] args) {
+		/*	byte = 8 	bits (range: 2 raise to 8 = 256 numbers, positive, negative; hence -128 to 127)
+			short= 16 	bits
+			int  = 32 	bits
+			long = 64 	bits
+		*/
+		
+		int id = 8;
+		
+		System.out.println(id);
+		
+		//float = 32	bits (7 significant digits)
+		//double= 64 	bits (15 significant digits)
+		
+		double myGrade = 101/100f;//it is necessary to specify the decimal point for the divider to get expected result (i.e.: .0 or f
+		
+		System.out.println(myGrade);
+	}
+
+}

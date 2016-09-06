@@ -1,0 +1,10 @@
+
+public class Characters {
+	public static void main(String[]args){
+		char letter = 'a';
+		System.out.println(letter);
+		
+		char upperK = 75;
+		System.out.println(upperK);
+	}
+}

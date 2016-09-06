@@ -1,0 +1,22 @@
+
+public class BasicMath {
+	public static void main(String[]args){
+		int a = 81;
+		int b = 9;
+		
+		int sum = a+b;
+		System.out.println(sum);
+		
+		int dif = a-b;
+		System.out.println(dif);
+		
+		int product = a*b;
+		System.out.println(product);
+		
+		float division = (float)a/b;//it is always useful and helpful to keep specifying the numbers to be float/double in division arithmetic operation
+		System.out.println(division);
+		
+		int mod = a%b;
+		System.out.println(mod);
+	}
+}

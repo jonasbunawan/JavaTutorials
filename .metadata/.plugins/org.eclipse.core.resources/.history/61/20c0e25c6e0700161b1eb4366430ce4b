@@ -1,0 +1,14 @@
+
+public class Variables {
+
+	public static void main(String[] args) {
+		/*	byte = 8 	bits (range: 2 raise to 8 = 256 numbers, positive, negative; hence -128 to 127)
+			short= 16 	bits
+			int  = 32 	bits
+			long = 64 	bits
+		*/
+		
+		it
+	}
+
+}

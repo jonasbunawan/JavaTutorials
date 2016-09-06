@@ -1,0 +1,13 @@
+
+public class Strings {
+	public static void main(String[]args){
+		String name = "Jonas";
+		String name2 = "jonas";
+		String name3 = "Jonas";
+		
+		System.out.println("Hello my name is " + name);
+		System.out.println(name.charAt(2));
+		System.out.println(name.compareTo(name2));
+		System.out.println(name.compareTo(name3));
+	}
+}

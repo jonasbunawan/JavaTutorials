@@ -1,0 +1,12 @@
+
+public class Variables {
+
+	public static void main(String[] args) {
+		/*	byte = 8 	bits
+			short= 16 	bits
+			int  = 32 	bits
+			long = 64 	bits
+		*/
+	}
+
+}

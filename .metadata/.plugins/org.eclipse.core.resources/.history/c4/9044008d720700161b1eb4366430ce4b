@@ -1,0 +1,13 @@
+
+public class Characters {
+	public static void main(String[]args){
+		char letter = 'a';
+		System.out.println(letter);
+		
+		char upperK = 75;//assigning value to char variable by specifying unicode of the letter
+		System.out.println(upperK);
+		
+		int K = 75;
+		System.out.println((char)K);
+	}
+}
